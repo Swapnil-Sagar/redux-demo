@@ -4,3 +4,4 @@ An action creater is a function which returns an action.
 Redux state how action should be implemented and returns new state
 //(previousState, action) => newState
 
+Middleware extends Redux with custom functionality
